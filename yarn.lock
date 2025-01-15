@@ -3582,10 +3582,10 @@
     "@tiptap/extension-text" "^2.7.2"
     "@tiptap/pm" "^2.7.2"
 
-"@tiptap/suggestion@2.7.2":
-  version "2.7.2"
-  resolved "https://registry.yarnpkg.com/@tiptap/suggestion/-/suggestion-2.7.2.tgz#88834bb31e81872ae00ce251e0c2e12fefb8118f"
-  integrity sha512-ZJMNuorzQQiKyzoisyeHgPH3kywv0cvQnyz5guZWiAtFWCUbFyB9MSLNuoijubwHWfnZMe4XiW5EqVt1dBmxBw==
+"@tiptap/suggestion@2.11.2":
+  version "2.11.2"
+  resolved "https://registry.yarnpkg.com/@tiptap/suggestion/-/suggestion-2.11.2.tgz#bee8a07456e33e0374b584a5bd858bf0bbe8cfb7"
+  integrity sha512-jA06veq7Ko7+yeyy4pymTGdqHfWNydDIioPCR0yddbon+3+aLP2hE31J+/1/8FmhSoE0qJsEki3/RU7pKTLgrg==
 
 "@tsconfig/node10@^1.0.7":
   version "1.0.9"
