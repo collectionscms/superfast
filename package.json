@@ -82,7 +82,7 @@
     "@tiptap/html": "2.10.3",
     "@tiptap/pm": "2.7.2",
     "@tiptap/react": "2.7.2",
-    "@tiptap/starter-kit": "2.7.2",
+    "@tiptap/starter-kit": "2.11.7",
     "@tiptap/suggestion": "2.7.2",
     "@types/ms": "0.7.34",
     "argon2": "0.40.3",
