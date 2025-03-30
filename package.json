@@ -86,7 +86,7 @@
     "@tiptap/suggestion": "2.7.2",
     "@types/ms": "0.7.34",
     "argon2": "0.40.3",
-    "axios": "1.8.2",
+    "axios": "1.8.3",
     "boxen": "8.0.0",
     "busboy": "1.6.0",
     "canvas-confetti": "1.9.3",
