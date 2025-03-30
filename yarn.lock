@@ -3395,10 +3395,10 @@
   resolved "https://registry.tiptap.dev/@tiptap-pro%2fextension-drag-handle-react/-/extension-drag-handle-react-2.11.2.tgz#471ca54af58c7181b79bfb6085bd4b0c3086bf9d"
   integrity sha512-lLgAvdIx+beWHUYmW595HPE/2j9C32d5vUfx7PU8NxywmExUuHcxDnwOmVg7+IGb0i6xF9KwCWG2pM21vFcZng==
 
-"@tiptap-pro/extension-drag-handle@2.10.11":
-  version "2.10.11"
-  resolved "https://registry.tiptap.dev/@tiptap-pro%2fextension-drag-handle/-/extension-drag-handle-2.10.11.tgz#401c0f4729f556bacc61bd153e3bb25f31d42619"
-  integrity sha512-i9nc56oCBUVkDqP5SVZylqnCPERsE2YsscqddNFvehCBJueN1z6sqGAqPLJkWh+w3SV02OLqFr6y8iJtnWFOTw==
+"@tiptap-pro/extension-drag-handle@2.17.6":
+  version "2.17.6"
+  resolved "https://registry.tiptap.dev/@tiptap-pro%2fextension-drag-handle/-/extension-drag-handle-2.17.6.tgz#10a58c836c0c07c3df2571209054a6bd452d6749"
+  integrity sha512-kH2eNb9D6mzXXIpJeFubNZPcAavU2Ii36nZQbZ+fHMfSK6GLKLkAtawLanf+oQIvCI5jwKbORfpYWcI5H1pwXg==
   dependencies:
     tippy.js "^6.3.7"
 
@@ -4992,7 +4992,16 @@ aws4@^1.8.0:
   resolved "https://registry.npmjs.org/aws4/-/aws4-1.12.0.tgz"
   integrity sha512-NmWvPnx0F1SfrQbYwOi7OeaNGokp9XhzNioJ/CSBs8Qa4vxug81mhJEAVZwxXuBmYB5KDRfMq/F3RR0BIU7sWg==
 
-axios@1.7.9, axios@^1.7.4:
+axios@1.8.2:
+  version "1.8.2"
+  resolved "https://registry.yarnpkg.com/axios/-/axios-1.8.2.tgz#fabe06e241dfe83071d4edfbcaa7b1c3a40f7979"
+  integrity sha512-ls4GYBm5aig9vWx8AWDSGLpnpDQRtWAfrjU+EuytuODrFBkqesN2RkOQCBzrA1RQNHw1SmRMSDDDSwzNAYQ6Rg==
+  dependencies:
+    follow-redirects "^1.15.6"
+    form-data "^4.0.0"
+    proxy-from-env "^1.1.0"
+
+axios@^1.7.4:
   version "1.7.9"
   resolved "https://registry.yarnpkg.com/axios/-/axios-1.7.9.tgz#d7d071380c132a24accda1b2cfc1535b79ec650a"
   integrity sha512-LhLcE7Hbiryz8oMDdDptSrWowmB4Bl6RCt6sIJKpRB4XtVf0iEgewX3au/pJqm+Py1kCASkb/FFKjxQaLtxJvw==
