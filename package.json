@@ -75,7 +75,7 @@
     "@tiptap/extension-horizontal-rule": "2.7.2",
     "@tiptap/extension-image": "2.10.3",
     "@tiptap/extension-link": "2.9.1",
-    "@tiptap/extension-ordered-list": "2.7.2",
+    "@tiptap/extension-ordered-list": "2.11.7",
     "@tiptap/extension-paragraph": "2.10.3",
     "@tiptap/extension-placeholder": "2.9.1",
     "@tiptap/extension-underline": "2.7.2",
