@@ -69,7 +69,7 @@
     "@tiptap/extension-bullet-list": "2.7.2",
     "@tiptap/extension-character-count": "2.7.2",
     "@tiptap/extension-code-block": "2.7.2",
-    "@tiptap/extension-code-block-lowlight": "2.9.1",
+    "@tiptap/extension-code-block-lowlight": "2.11.7",
     "@tiptap/extension-collaboration": "2.7.2",
     "@tiptap/extension-heading": "2.7.2",
     "@tiptap/extension-horizontal-rule": "2.7.2",
