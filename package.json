@@ -61,7 +61,7 @@
     "@radix-ui/react-dropdown-menu": "2.1.2",
     "@radix-ui/react-popover": "1.1.2",
     "@sentry/node": "8.49.0",
-    "@tiptap-pro/extension-drag-handle": "2.10.11",
+    "@tiptap-pro/extension-drag-handle": "2.18.0",
     "@tiptap-pro/extension-drag-handle-react": "2.11.2",
     "@tiptap-pro/extension-file-handler": "2.11.9",
     "@tiptap-pro/extension-node-range": "2.11.2",
